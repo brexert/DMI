@@ -1,0 +1,92 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -l
+    4  git clone https://githyb.com/christeenwoo/DMI
+    5  git clone https://github.com/christeenwoo/DMI
+    6  ls -l
+    7  nano
+    8  ls-l
+    9  ls -l
+   10  cat git-download.sh 
+   11  ls
+   12  git-download
+   13  git-download.sh
+   14  echo $PATH
+   15  whereis ls
+   16  cat /bin/ls
+   17  ls
+   18  ls- l /bin/ls
+   19  ls -l bin/ls
+   20  ls -l /bin/ls
+   21  ls -l
+   22  /bin/ls
+   23  ls
+   24  pwd
+   25  /home/user/git-download.sh
+   26  chmod 744 git-download.sh 
+   27  ls-l
+   28  ls -l
+   29  ./git -download.sh
+   30  ./git-download.sh
+   31  ls -l
+   32  ls
+   33  ./git-download.sh 
+   34  PATH=/home/user:$PATH
+   35  echo $PATH
+   36  git-download.sh
+   37  ls -l
+   38  mv git-download.sh git-download
+   39  ls -l
+   40  git-download
+   41  mkdir darbi
+   42  cd darbi/
+   43  git-download
+   44  cd DMI
+   45  ls -la
+   46  rm -r .git
+   47  rm -rv .git
+   48  rm -rf .git
+   49  ls -l
+   50  git init 
+   51  git add.
+   52  git add .
+   53  git cinfig --global user.email dik39@inbox.lv
+   54  git remote add origin https://gitgub.com/brexert/DMI.git
+   55  git push -u origin master
+   56  git config --global user.email dik38@inbox.lv
+   57  git remote add origin https://gitgub.com/brexert/DMI.git
+   58  git push -u origin master
+   59  ls -la
+   60  rm -rf .git/
+   61  ls -la
+   62  cp ~/git-download ./
+   63  ls -l
+   64  git upload
+   65  nano git-upload
+   66  ls -l
+   67  chmod 744 git-upload
+   68  ls -l
+   69  ls -la
+   70  git-upload
+   71  pwd
+   72  PATH=$PATH:/home/user/darbi/DMI
+   73  git-upload
+   74  ls -la
+   75  git init
+   76  git add .
+   77  git config --global user.email dik38@inbox.lv
+   78  git remote add origin https://gitgub.com/brexert/DMI.git
+   79  git commit -m "20170920_11_50"
+   80  git push origin master
+   81  git remote add origin https://github.com/brexert/DMI.git
+   82  git commit -m "20170920_11_55"
+   83  git push origin master
+   84  ls -la
+   85  rm -rf .git/
+   86  git init
+   87  git add .
+   88  git config --global user.email dik38@inbox.lv
+   89  git remote add origin https://github.com/brexert/DMI.git
+   90  git commit -m "20170920_11_55"
+   91  git push origin master
+   92  history > history_20170920.txt 
