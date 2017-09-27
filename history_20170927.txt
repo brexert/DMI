@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/brexert/DMI
+    3  ls -l
+    4  cd DMI
+    5  ls -la
+    6  variable_name=variable_value
+    7  )_ALI
+    8  TOKEN_A
+    9  mainiigais=10
+   10  echo $mainiigais
+   11  echo $mainigais
+   12  mainiigais1=20
+   13  pwd
+   14  nano shell_programming.sh
+   15  ls -l
+   16  chmod 744 shell_programming.sh
+   17  ls -lls -l
+   18  shell_programming.sh
+   19  ./shell_programming.sh 
+   20  nano shell_programming.sh 
+   21  ./shell_programming.sh 
+   22  nano shell_programming.sh 
+   23  ./shell_programming.sh 
+   24  nano shell_programming.sh 
+   25  ./shell_programming.sh
+   26  nano git-upload
+   27  history > history_20170927.txt
