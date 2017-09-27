@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "First Name: $0"
+echo "First Parametr : $1"
+echo "Second Parametr : $2"
