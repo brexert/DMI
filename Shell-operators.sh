@@ -59,3 +59,24 @@ if [ $a != $b ]
 then
    echo "a is not equal to b"
 fi
+
+
+#4.Piemers - operacijas ar argumentiem 
+if [ $n# == 2 ]
+# ja (if) skriptam nodotu argumentu skaits ir vienads (==) ar 2
+then
+#tad (then) izpildam sekojoshas darbibas lidz....
+a=$1
+b=$2
+val41=`expr $a + $b`
+echo "$a + $b = "$val41
+val42=`expr $a - $b`
+echo "$a - $b = "$val42
+val43=`expr $a \* $b`
+echo "$a * $b = "$val43
+val44=`expr $a / $b`
+echo "$a / $b = "$val44
+val45=`expr $a % $b`
+echo "$a % $b = "$val45
+#shai vietai
+fi
