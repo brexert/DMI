@@ -1,0 +1,50 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/brexert/DMI
+    4  ls -la
+    5  cd DMI
+    6  ls -l
+    7  cat shell_programming
+    8  cat shell_programming.sh
+    9  nano
+   10  chmod 744 shell-programming.sh
+   11  ls- l
+   12  ls -l
+   13  chmod 744 shell-operators.sh
+   14  nano Shel-programming.sh
+   15  chmod 744 Shel-operators.sh
+   16  ./Shel-programming.sh
+   17  ls -l
+   18  ./Shel-operators.sh
+   19  nano Shel-operastors.sh
+   20  nano ./Shel-operators.sh
+   21  Shel-operators.sh
+   22  ./Shel-operators.sh
+   23  nano ./Shel-operators.sh
+   24  ./Shel-operators.sh
+   25  nano Shel-operators.sh
+   26  ./shell_programming.sh 
+   27  ./shel-operators.sh
+   28  ./Shel-operators.sh
+   29  nano Shel-operators.sh
+   30  ./Shel-operqtors.sh
+   31  ./Shel-operators.sh
+   32  nano Shel-operators.sh
+   33  ./Shell-operators.sh 
+   34  nano Shell-operators.sh
+   35  ./Shell-operators.sh 
+   36  chmod 744 Shell-operators.sh
+   37  ls -l
+   38  ./Shell-operators.sh 
+   39  nano Shell-operators.sh
+   40  ./Shell-operators.sh
+   41  ls- l
+   42  ls *-l
+   43  ls -l
+   44  rm 111
+   45  ls- l
+   46  ls -l
+   47  nano Shell-operators.sh
+   48  ./Shell-operators.sh
+   49  nano git-upload
+   50  history > history_20171011.txt
