@@ -1,0 +1,45 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  git clone https://github.com/brexert/DMI
+    4  ls -l
+    5  ccd DMI
+    6  cd DMI
+    7  nano dialogs.sh
+    8  dialogs.sh
+    9  ./dialogs.sh
+   10  chmod 744 dialogs.sh 
+   11  ./dialogs.sh
+   12  nano dialogs.sh 
+   13  dialogs.sh
+   14  ./dialogs.sh 
+   15  cat dialogs.sh 
+   16  nano
+   17  nano dialogs.sh 
+   18  ./dialogs.sh 
+   19  nano dialogs.sh 
+   20  ./dialogs.sh 
+   21  nano dialogs.sh 
+   22  ./dialogs.sh 
+   23  nano dialogs.sh 
+   24  ./dialogs.sh 
+   25  nano dialogs.sh 
+   26  ./dialogs.sh 
+   27  5
+   28  ./dialogs.sh 
+   29  nano dialogs.sh 
+   30  ./dialogs.sh 
+   31  nano dialogs.sh 
+   32  ./dialogs.sh 
+   33  nano dialogs.sh 
+   34  ./dialogs.sh 
+   35  nano dialogs.sh 
+   36  ./dialogs.sh 
+   37  nano dialogs.sh 
+   38  cp dialogs.sh dialogs2.sh
+   39  ls -l
+   40  /dialogs2.sh
+   41  ./dialogs2.sh
+   42  nano dialogs2.sh 
+   43  ./dialogs2.sh 
+   44  nano git-upload
+   45  history > history_20171018.txt
