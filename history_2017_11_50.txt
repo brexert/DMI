@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/brexert/MDI
+    3  git clone https://github.com/brexert/DMI 
+    4  ls -l
+    5  cd DMI
+    6  nano if_operatora.sh
+    7  chmod 744 if_operatora.sh 
+    8  ./if_operatora.sh 
+    9  nano if_operatora.sh 
+   10  ./if_operatora.sh 
+   11  cat if_operatora.sh 
+   12  nano if_operatora.sh 
+   13  ./if_operatora.sh  10
+   14  ./if_operatora.sh  -10
+   15  nano if_operatora.sh 
+   16  ./if_operatora.sh 
+   17  nano if_operatora.sh 
+   18  ./if_operatora.sh 10
+   19  nano if_operatora.sh 
+   20  ./if_operatora.sh 10
+   21  ./if_operatora.sh -10
+   22  ./if_operatora.sh 0
+   23  nano if_operatora.sh 
+   24  ./if_operatora.sh 10
+   25  ./if_operatora.sh -10
+   26  ./if_operatora.sh 0
+   27  nano if_operatora.sh 
+   28  ./if_operatora.sh 0
+   29  nano if_operatora.sh 
+   30  nano sorting.sh
+   31  ./sorting.sh
+   32  chmod 744 sorting.sh
+   33  ./sorting.sh
+   34  ./sorting.sh 7 33 55
+   35  nano sorting.sh
+   36  ./sorting.sh 7 33 55
+   37  nano sorting.sh
+   38  ./sorting.sh 7 33
+   39  nano sorting.sh
+   40  ./sorting.sh 7 33
+   41  nano br.sh
+   42  nano git-upload
+   43  history > history_2017_11_50.txt
