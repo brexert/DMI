@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/brexert/DMI
+    3  cd DMI
+    4  mkdir PYTHON
+    5  cd PYTHON
+    6  where is python
+    7  whereis python
+    8  nano hello.py
+    9  ls -l
+   10  ./hello.py
+   11  chmod 744 hello.py
+   12  ./hello.py
+   13  ls -l
+   14  ./hello.py
+   15  nano hello.py
+   16  ./hello.py
+   17  nano hello.py 
+   18  ./hello.py 
+   19  nano hello.py 
+   20  ./hello.py 
+   21  nano hello.py 
+   22  ./hello.py 
+   23  nano hello.py 
+   24  ./hello.py 
+   25  nano hello.py 
+   26  ./hello.py 
+   27  nano hello.py 
+   28  ./hello.py 
+   29  nano hello.py 
+   30  ./hello.py 
+   31  nano hello.py 
+   32  ./hello.py 
+   33  nano hello.py 
+   34  ./hello.py 
+   35  nano hello.py 
+   36  ./hello.py 
+   37  nano hello.py 
+   38  nano variables.py
+   39  chmod 744  variables.py
+   40  variables.py
+   41  nano variables.py
+   42  variables.py
+   43  nano variables.py
+   44  variables.py
+   45  ./variables.py
+   46  nano variables.py
+   47  ./variables.py
+   48  nano variables.py
+   49  ./variables.py
+   50  nano variables.pynano variables.py
+   51  ./variables.py
+   52  nano variables.pynano variables.py
+   53  ./variables.py
+   54  nano variables.py
+   55  ./variables.py
+   56  nano variables.py
+   57  ./variables.py
+   58  nano variables.py
+   59  ./variables.py
+   60  nano variables.py
+   61  ./variables.py
+   62  nano variables.py
+   63  ./variables.py
+   64  nano variables.py
+   65  ./variables.py
+   66  nano dialogs.py
+   67  chmod 744 dialogs.py
+   68  nano dialogs.py
+   69  ./dialogs.py 
+   70  nano dialogs.py
+   71  ./dialogs.py 
+   72  nano dialogs.py
+   73  ./dialogs.py 
+   74  nano dialogs.py
+   75  ./dialogs.py 
+   76  nano dialogs.py
+   77  ./dialogs.py 
+   78  nano dialogs.py
+   79  nano if.py
+   80  ls -l
+   81  nano hello.py 
+   82  ./variables.py 
+   83  nano variables.py 
+   84  ./variables.py 
+   85  nano variables.py 
+   86  ./variables.py 
+   87  idle &
+   88  cd ..
+   89  history > hisrory_20171108.txt
