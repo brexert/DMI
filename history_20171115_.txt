@@ -1,0 +1,20 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/brexert/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  nano sin_caur_summu_ver1_.py
+    6  python sin_caur_summu_ver1_.py 
+    7  nano sin_caur_summu_ver1_.py
+    8  python sin_caur_summu_ver1_.py 
+    9  nano sin_caur_summu_ver1_.py
+   10  python sin_caur_summu_ver1_.py 
+   11  nano sin_caur_summu_ver1_.py
+   12  y
+   13  cp sin_caur_summu_ver1_.py sin_caur_summu_ver2_.py 
+   14  ls -l
+   15  nano sin_caur_summu_ver_2.py
+   16  nano sin_caur_summu_ver2_.py
+   17  python sin_caur_summu_ver2_.py
+   18  cd ..
+   19  pwd
+   20  history > history_20171115_.txt
