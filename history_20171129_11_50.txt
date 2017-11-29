@@ -1,0 +1,15 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/brexert/DMI
+    3  cd PYTHON
+    4  cd DMI
+    5  cd PYTHON
+    6  idle &
+    7  /ls -l
+    8  ls -l
+    9  cat python_diary_20171129.py 
+   10  idelr &
+   11  edlr&
+   12  idle&
+   13  idle &
+   14  cd ..
+   15  history > history_20171129_11_50.txt
