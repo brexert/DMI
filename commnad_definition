@@ -1,0 +1,24 @@
+1  pwd - parada direktoriju, kura strada
+2  whoami - kas es esmu
+3 ls - komanda tiek izmantota, lai zinatu, kadi faili atrodas direktorija, kura pa�laik atrodaties
+4 cd - nomaina direktoriju
+5 mkdir - komandu izmanto, lai izveidotu mapi vai direktoriju
+6 rmdir - komandu izmanto, lai izdzestu direktoriju
+7 man - lai uzzinatu, ko vairak par, kadu komandu un ka to izmantot.
+8 cat - komanda tiek izmantota, lai paraditu faila saturu, lia vieglak skatitu programmas
+9 echo - palidz mums parvietot da�us datus, parasti tekstu faila
+10 ls -a - parada apsleptos failus
+11 ls -l - izvada piekluves tiesibas
+12 ls -la - izvada piekluves tiesibas + sleptos failus
+13 cd .. - parvietoties uz aug�ejo direktoriju
+14 git init - izveidot jaunu lokalo repozitariju 
+15 git add - pievienot failus
+16 git config - konfiguret autora vardu
+17 git commit -m - saglabat izmainas
+18 git remote add origin <server> - pievienot attalo serveri
+19 git push origin master - sutit izmainas uz tavu attalo repozitariju
+20 nano - izveido failu lietojot nano editoru
+21 echo -e - rakstzimes,kuras ir atdalitas
+22 echo -n - jauna rinda ar atpakalatkapi
+23 echo * - printet visus failus/mapes lietojot echo komadu
+24 echo *.jpeg - printet specifiskus failus
