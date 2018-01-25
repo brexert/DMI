@@ -38,14 +38,13 @@ while k < 500:
     k = k + 1
     a = a * (-1) * x**2/((2*k)*(2*k+1))
     S = S + a
-print "a%d = %6.2f S%d = %.2f"%(k,a,k,S)
-
-if k == 1:
- print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
-elif k == 499:
- print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
-elif k == 500:
- print "Izdruka no liet.f. a%d = %6.10f S%d = %6.10f"%(k,a,k,S)  
+    #print "a%d = %6.2f S%d = %.2f"%(k,a,k,S)
+    if k == 1:
+        print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+    elif k == 499:
+        print "Izdruka no liet.f. a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
+    elif k == 500:
+        print "Izdruka no liet.f. a%d = %6.10f S%d = %6.10f"%(k,a,k,S)  
     
     
         
