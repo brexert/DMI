@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  cd FINAL
+    3  import dichotomy.png
+    4  import dichotomy_result.png
+    5  import derivative.png
+    6  import sin_caursummu.png
+    7  import quiz.png
+    8  .. DMI
+    9  ..
+   10  .. FINAL
+   11  cd ..
+   12  git-upload
+   13  ls-ls
+   14  ls -la
+   15  ./git-upload
+   16  history > history_20180125.txt
