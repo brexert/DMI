@@ -1,29 +1,28 @@
-function y=lab4_demo_fun(t)
-%t=0:0.01:8.5;
+
+t=0:0.01:8.5;
 %t_noise = 1:0.01:2.5;
-t_noise_f = (t>=1)&(t<2.5); t_noise=t(t_noise_f)
+t_noise_f = (t>1)&(t<2.5); t_noise=t(t_noise_f)
 y_noise =rand(size(t_noise))*3-1.5;
 %plot(t_noise, y_noise)
 %t_zero = 0:0.01:1;
-t_zero_f = (t>=0)&(t<1); t_zero=t(t_zero_f)
+t_zero_f = (t>0)&(t<1); t_zero=t(t_zero_f)
 y_zero = zeros(size(t_zero));
 %plot(t_zero,y_zero)
 %t_const = 2.5:0.01:4.5;
-t_const_f = (t>=2.5)&(t<4.5); t_const=t(t_const_f)
+t_const_f = (t>2.5)&(t<4.5); t_const=t(t_const_f)
 y_const = zeros(1,201)+3;
 y_const = zeros(size(t_const))+3;
 %plot(t_const,y_const)
 %t_saw = 4.5:0.01:6.5;
-t_saw_f = (t>=4.5)&(t<6.5); t_saw=t(t_saw_f)
+t_saw_f = (t>0)&(t<2.5); t_noise=t(t_noise_f)
 k = (-4-0)/(6.5-4.5);
 delay = 4.5
 y_saw = k*(t_saw-delay);
 %plot(t_saw,y_saw)
-%t_sin=6.5:0.01:8.5;
-t_sin_f = (t>=6.5)&(t=<8.5); t_sin=t(t_sin_f)
-A0=0; A=3; T=(8.5-6.5)/6; f= 1/T ; delay = 6.5;
+t_sin=6.5:0.01:8.5;
+A0=3; A=2.5; T=(8.5-6.5)/6; f= 1/T ; delay = 6.5;
 y_sin = A0+A*sin(2*pi*f*(t_sin-delay));
 %plot (t_sin, y_sin)
-%t = [t_zero, t_noise, t_const, t_saw, t_sin];
+t = [t_zero, t_noise, t_const, t_saw, t_sin];
 y = [y_zero, y_noise, y_const, y_saw, y_sin];
-%plot(t,y)
+plot(t,y)
