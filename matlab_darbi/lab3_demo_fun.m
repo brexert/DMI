@@ -1,4 +1,4 @@
-function y = lab3_demo_fun(t)
+
 t=0:0.01:8;
 
 %t_noise = 2.5:0.01:4.5;
@@ -46,4 +46,4 @@ y_noise = rand(size(t_noise))*3-1.5;
 %% Signālu apvienošana
 t=  [t_zero,t_sin,t_noise,t_const,t_saw];
 y= [y_zero,y_sin,y_noise,y_const,y_saw];
-%plot(t,y)
+plot(t,y)
